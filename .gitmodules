@@ -10,3 +10,6 @@
 [submodule "LoreProject/lore-pages"]
 	path = LoreProject/lore-pages
 	url = git@github.com:dotCorain/lore-pages.git
+[submodule "LoreProject/arrival"]
+	path = LoreProject/arrival
+	url = git@github.com:FleetingLore/arrival.git
