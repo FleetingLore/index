@@ -22,7 +22,7 @@ inner_lore_key_escape = "\\="
 
 [renderer]
 site_title = "Fleeting Lore Index"
-from_lore_path = "src"
+from_lore_path = "."
 to_html_path = "./target"
 lang = "zh-CN"
 link_base = "https://fleetinglore.github.io/index"
