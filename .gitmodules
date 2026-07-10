@@ -1,0 +1,6 @@
+[submodule "Learning/systemOS/local_os"]
+	path = Learning/systemOS/local_os
+	url = git@github.com:FleetingLore/local_os.git
+[submodule "Learning/Rust/code-steps"]
+	path = Learning/Rust/code-steps
+	url = git@github.com:FleetingLore/code-steps.git
