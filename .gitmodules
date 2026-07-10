@@ -16,3 +16,6 @@
 [submodule "Tools/ncm"]
 	path = Tools/ncm
 	url = git@github.com:FleetingLore/ncm.git
+[submodule "LoreProject/Product/SantaPresserIndex"]
+	path = LoreProject/Product/SantaPresserIndex
+	url = git@github.com:FleetingLore/SantaPresserIndex.git
