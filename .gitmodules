@@ -65,5 +65,5 @@
 	path = Shelf/Math/gtac
 	url = git@github.com:FleetingLore/gtac.git
 [submodule "Learning/Rust/pref-book-zh"]
-	path = Learning/Rust/pref-book-zh
+	path = Shelf/Rust/perf-book-zh
 	url = git@github.com:FleetingLore/perf-book-zh.git
