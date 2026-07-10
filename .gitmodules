@@ -67,3 +67,6 @@
 [submodule "Learning/Rust/pref-book-zh"]
 	path = Shelf/Rust/perf-book-zh
 	url = git@github.com:FleetingLore/perf-book-zh.git
+[submodule "LaerProject/laer-image-concept"]
+	path = LaerProject/laer-image-concept
+	url = git@github.com:localLore/laer-image-concept.git
