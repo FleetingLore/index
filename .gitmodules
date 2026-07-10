@@ -4,3 +4,6 @@
 [submodule "Learning/Rust/code-steps"]
 	path = Learning/Rust/code-steps
 	url = git@github.com:FleetingLore/code-steps.git
+[submodule "Ahjzu/ahjzu-furry"]
+	path = Ahjzu/ahjzu-furry
+	url = git@github.com:FleetingLore/ahjzu-furry.git
