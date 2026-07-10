@@ -19,3 +19,51 @@
 [submodule "LoreProject/Product/SantaPresserIndex"]
 	path = LoreProject/Product/SantaPresserIndex
 	url = git@github.com:FleetingLore/SantaPresserIndex.git
+[submodule "Tools/lore-pages-example"]
+	path = Tools/lore-pages-example
+	url = git@github.com:FleetingLore/lore-pages-example.git
+[submodule "Tools/mkdocs-example"]
+	path = Tools/mkdocs-example
+	url = git@github.com:FleetingLore/mkdocs-example.git
+[submodule "Tools/elementary-row-operation-verifier"]
+	path = Tools/elementary-row-operation-verifier
+	url = git@github.com:FleetingLore/elementary-row-operation-verifier.git
+[submodule "LoreProject/ducia-listing-framework"]
+	path = LoreProject/ducia-listing-framework
+	url = git@github.com:FleetingLore/ducia-listing-framework.git
+[submodule "Shelf/School/jfb"]
+	path = Shelf/School/jfb
+	url = git@github.com:FleetingLore/jfb.git
+[submodule "Shelf/School/dlfx"]
+	path = Shelf/School/dlfx
+	url = git@github.com:FleetingLore/dlfx.git
+[submodule "Shelf/School/dxwl"]
+	path = Shelf/School/dxwl
+	url = git@github.com:FleetingLore/dxwl.git
+[submodule "Shelf/School/gdsx"]
+	path = Shelf/School/gdsx
+	url = git@github.com:FleetingLore/gdsx.git
+[submodule "Shelf/School/xxds"]
+	path = Shelf/School/xxds
+	url = git@github.com:FleetingLore/xxds.git
+[submodule "Shelf/Math/jhljc"]
+	path = Shelf/Math/jhljc
+	url = git@github.com:FleetingLore/jhljc.git
+[submodule "Shelf/Math/zt"]
+	path = Shelf/Math/zt
+	url = git@github.com:FleetingLore/zt.git
+[submodule "Shelf/Math/sxfxxtj"]
+	path = Shelf/Math/sxfxxtj
+	url = git@github.com:FleetingLore/sxfxxtj.git
+[submodule "Shelf/Math/dlxt"]
+	path = Shelf/Math/dlxt
+	url = git@github.com:FleetingLore/dlxt.git
+[submodule "Shelf/Math/dsxxtj"]
+	path = Shelf/Math/dsxxtj
+	url = git@github.com:FleetingLore/dsxxtj.git
+[submodule "Shelf/Math/gtac"]
+	path = Shelf/Math/gtac
+	url = git@github.com:FleetingLore/gtac.git
+[submodule "Learning/Rust/pref-book-zh"]
+	path = Learning/Rust/pref-book-zh
+	url = git@github.com:FleetingLore/perf-book-zh.git
