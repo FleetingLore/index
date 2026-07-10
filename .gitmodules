@@ -13,3 +13,6 @@
 [submodule "LoreProject/arrival"]
 	path = LoreProject/arrival
 	url = git@github.com:FleetingLore/arrival.git
+[submodule "Tools/ncm"]
+	path = Tools/ncm
+	url = git@github.com:FleetingLore/ncm.git
