@@ -7,3 +7,6 @@
 [submodule "Ahjzu/ahjzu-furry"]
 	path = Ahjzu/ahjzu-furry
 	url = git@github.com:FleetingLore/ahjzu-furry.git
+[submodule "LoreProject/lore-pages"]
+	path = LoreProject/lore-pages
+	url = git@github.com:dotCorain/lore-pages.git
