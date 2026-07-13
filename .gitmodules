@@ -79,3 +79,6 @@
 [submodule "LaerProject/laer-image-concept-cube141"]
 	path = LaerProject/laer-image-concept-cube141
 	url = git@github.com:localLore/laer-image-concept-cube141.git
+[submodule "Shelf/School/md"]
+	path = Shelf/School/md
+	url = git@github.com:FleetingLore/md.git
