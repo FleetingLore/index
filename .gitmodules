@@ -82,3 +82,9 @@
 [submodule "Shelf/School/md"]
 	path = Shelf/School/md
 	url = git@github.com:FleetingLore/md.git
+[submodule "Shelf/Math/sd"]
+	path = Shelf/Math/sd
+	url = git@github.com:FleetingLore/sd.git
+[submodule "Shelf/School/sd"]
+	path = Shelf/School/sd
+	url = git@github.com:FleetingLore/sd.git
