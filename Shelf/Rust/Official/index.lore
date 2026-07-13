@@ -1,0 +1,65 @@
+The Cargo book > https://doc.rust-lang.org/cargo/index.html
+
+Rust Playground > https://play.rust-lang.org
+
+Rustacean > https://rustacean.net
+
+The Rust Programming Language > https://doc.rust-lang.org/book/
+
+The Rust Programming Language Experimental > https://rust-book.cs.brown.edu
+
+Rust API Documentation > https://doc.rust-lang.org/stable/std/index.html
+
+Rust by Example > https://doc.rust-lang.org/stable/rust-by-example/index.html
+
+Rustlings > https://rustlings.rust-lang.org
+
+Release Notes > https://doc.rust-lang.org/stable/releases.html
+
+The Rust Edition Guide > https://doc.rust-lang.org/stable/edition-guide/index.html
+
+The rustc Book > https://doc.rust-lang.org/stable/rustc/index.html
+
+The rustdoc Book > https://doc.rust-lang.org/stable/rustdoc/index.html
+
+Clippy  Documentation > https://doc.rust-lang.org/stable/clippy/index.html
+
+rustc error code index > https://doc.rust-lang.org/stable/error_codes/index.html
+
+The Rust Reference > https://doc.rust-lang.org/stable/reference/index.html
+
+Rust Style Guide > https://doc.rust-lang.org/stable/style-guide/index.html
+
+The Rustonomicon > https://doc.rust-lang.org/stable/nomicon/index.html
+
+The Rust Unstable book > https://doc.rust-lang.org/stable/unstable-book/index.html
+
+Rust Compiler Development Guide > https://rustc-dev-guide.rust-lang.org
+
+The Embedded Rust Book > https://docs.rust-embedded.org/book/
+
+Command Line Applications in Rust > https://rust-cli.github.io/book/index.html
+
+The Little Book of Rust Macros > https://danielkeep.github.io/tlborm/book/index.html
+
+Learning Rust With Entirely Too Many Linked Lists > https://rust-unofficial.github.io/too-many-lists/
+
+Rust Forge > https://forge.rust-lang.org
+
+Rust Blog > https://blog.rust-lang.org
+
+The Rust Performance Book > https://nnethercote.github.io/perf-book/
+
+Rust Design Patterns > https://rust-unofficial.github.io/patterns/
+
+Rust API Guidelines > https://rust-lang.github.io/api-guidelines/
+
+The rustup book > https://rust-lang.github.io/rustup/
+
+mdBook Documentation > https://rust-lang.github.io/mdBook/
+
+The Rust Programming Language 2018 Edition > https://doc.rust-lang.org/stable/book/2018-edition/
+
+The Rust Programming Language 1.0.0 > https://doc.rust-lang.org/1.0.0/book/
+
+Glossary 1.0.0 > https://doc.rust-lang.org/1.0.0/book/glossary.html
