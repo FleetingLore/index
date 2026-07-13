@@ -70,3 +70,12 @@
 [submodule "LaerProject/laer-image-concept"]
 	path = LaerProject/laer-image-concept
 	url = git@github.com:localLore/laer-image-concept.git
+[submodule "Tools/rust-project"]
+	path = Tools/rust-project
+	url = git@github.com:FleetingLore/rust-project.git
+[submodule "The-Rail/rail"]
+	path = The-Rail/rail
+	url = git@github.com:localLore/rail.git
+[submodule "LaerProject/laer-image-concept-cube141"]
+	path = LaerProject/laer-image-concept-cube141
+	url = git@github.com:localLore/laer-image-concept-cube141.git
