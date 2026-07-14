@@ -25,7 +25,7 @@ site_title = "Fleeting Lore Index"
 from_lore_path = "."
 to_html_path = "./target"
 lang = "zh-CN"
-link_base = "https://fleetinglore.github.io/index"
+link_base = "index.ducia.site"
 scripts = [
-    "https://fleetinglore.github.io/lore-pages-src/indev/main.js",
+    "https://assets.ducia.site/lore-pages-src/indev/main.js",
 ]
