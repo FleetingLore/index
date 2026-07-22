@@ -91,3 +91,15 @@
 [submodule "fleetinglore.github.io"]
 	path = fleetinglore.github.io
 	url = git@github.com:FleetingLore/fleetinglore.github.io.git
+[submodule "Shelf/Math/psjhl"]
+	path = Shelf/Math/psjhl
+	url = git@github.com:FleetingLore/psjhl.git
+[submodule "Shelf/Rust/spice"]
+	path = Shelf/Rust/spice
+	url = git@github.com:FleetingLore/rust-spice.git
+[submodule "Shelf/Rust/spice-tiny"]
+	path = Shelf/Rust/spice-tiny
+	url = https://github.com/Harnesser/tiny-spice-rs.git
+[submodule "Shelf/Rust/spice-tiny-fork"]
+	path = Shelf/Rust/spice-tiny-fork
+	url = git@github.com:FleetingLore/tiny-spice-rs.git

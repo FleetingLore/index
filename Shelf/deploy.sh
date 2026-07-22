@@ -57,7 +57,7 @@ fi
 mkdocs build || exit 1
 
 # 上传文件
-rsync -avz --delete -e ssh site/ $SERVER:$remote_path/ || exit 1
+rsync -avz --progress --delete -e ssh site/ $SERVER:$remote_path/ || exit 1
 
 # Nginx 配置 - 使用 heredoc 正确传递变量
 ssh $SERVER << ENDSSH
